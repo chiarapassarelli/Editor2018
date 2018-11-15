@@ -14,7 +14,7 @@ import editorLevel.Editor;
 import gui.GameManager;
 
 public class MenuPrincipale extends JPanel implements ActionListener {
-	//CIAO MARIAAAAAAAAAAA
+
 	private JButton start = new JButton("START");
 	private JButton option = new JButton("OPTION");
 	private JButton btnEditor = new JButton("EDITOR");
